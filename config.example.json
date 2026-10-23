@@ -1,0 +1,7 @@
+{
+  "apiKeys": ["YOUR_GEMINI_API_KEY_1", "YOUR_GEMINI_API_KEY_2"],
+  "openaiApiKeys": ["YOUR_OPENAI_API_KEY_1"],
+  "openaiModel": "gpt-4o-mini",
+  "adminNumber": "8801XXXXXXXXX@c.us",
+  "browserPath": "/usr/bin/chromium"
+}

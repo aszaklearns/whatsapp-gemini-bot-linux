@@ -1,0 +1,28 @@
+# Secrets / local config
+config.json
+.env
+*.env
+
+# WhatsApp session & cache
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Database (user data)
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+bot.log
+
+# Dependencies
+node_modules/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
